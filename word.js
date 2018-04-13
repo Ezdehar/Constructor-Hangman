@@ -1,4 +1,4 @@
-//CONTAINS the second contructor, WORD, which depends on the LETTER CONSTRUCTOR
+//This file CONTAINS the second contructor, WORD, which depends on the LETTER CONSTRUCTOR
 //Using this file to create an OBJECT REPRESENTING the current word the user is attempting to guess
 //This file will be used by index.js to store the word
 
