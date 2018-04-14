@@ -5,8 +5,9 @@
 var fs = require("fs");
 var letter = require("./letter");
 
-
-
+//this.readGuess = function() {
+//var Letter = function(character, underscore) {
+    
 //An array of new Letter objects representing the letters of the underlying word
 //function that returns a string representing a word
 //function that takes a character as an argument
