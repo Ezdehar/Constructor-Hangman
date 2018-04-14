@@ -5,4 +5,5 @@ require('dotenv').config();
 
 var word = require("./word");
 
+var inquirer = require("inquirer");
 
