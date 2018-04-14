@@ -1,8 +1,8 @@
 {
-  "name": "cwru",
+  "name": "contructor-hangman",
   "version": "1.0.0",
   "description": "",
-  "main": "Tamagotchis.js",
+  "main": "letter.js",
   "dependencies": {
     "dotenv": "^5.0.1",
     "geocoder": "^0.2.3",
